@@ -6,9 +6,9 @@ PKG_RELEASE=$(PKG_SOURCE_VERSION)
 
 PKG_SOURCE_PROTO:=git
 #PKG_SOURCE_URL:=git://gitorious.org/pdnsd/pdnsd.git
-PKG_SOURCE_URL:=https://github.com/loftor-git/pdnsd.git
+PKG_SOURCE_URL:=https://github.com/boytm/pdnsd.git
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)-$(PKG_VERSION)
-PKG_SOURCE_VERSION:=a8e46ccba7b0fa2230d6c42ab6dcd92926f6c21d
+PKG_SOURCE_VERSION:=496b8bee453dbaba4c0b54bbe40e0effa5a352dc
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION)-$(PKG_SOURCE_VERSION).tar.gz
 # PKG_MIRROR_MD5SUM:=
 # CMAKE_INSTALL:=1
